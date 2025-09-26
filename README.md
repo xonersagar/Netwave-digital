@@ -1,73 +1,59 @@
-# Welcome to your Lovable project
+Netwave Digital Hub
+📌 Project Info
 
-## Project info
+A modern web application built with React, Vite, Tailwind CSS, and shadcn-ui.
+This project is designed and developed by Sagar Kumar Mahto.
 
-**URL**: https://lovable.dev/projects/13ff3c0e-f6ae-45c9-9887-9256ea1336b2
+🚀 Getting Started
+Prerequisites
 
-## How can I edit this code?
+Make sure you have the following installed:
 
-There are several ways of editing your application.
+Node.js
+ (Latest LTS recommended)
 
-**Use Lovable**
+npm or yarn package manager
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/13ff3c0e-f6ae-45c9-9887-9256ea1336b2) and start prompting.
+Installation & Setup
+# Step 1: Clone the repository
+git clone <https://github.com/xonersagar/Netwave-digital>
 
-Changes made via Lovable will be committed automatically to this repo.
+# Step 2: Navigate to the project folder
+cd netwave-digital-hub
 
-**Use your preferred IDE**
+# Step 3: Install dependencies
+npm install
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Run the development server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Your app will now be running locally. Open http://localhost:5173
+ to view it.
 
-**Use GitHub Codespaces**
+🛠️ Tech Stack
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+React – Frontend library
 
-## What technologies are used for this project?
+Vite – Fast development build tool
 
-This project is built with:
+Tailwind CSS – Utility-first styling
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+shadcn-ui – UI components
 
-## How can I deploy this project?
+📦 Deployment
 
-Simply open [Lovable](https://lovable.dev/projects/13ff3c0e-f6ae-45c9-9887-9256ea1336b2) and click on Share -> Publish.
+You can deploy this project on any modern hosting platform like:
 
-## Can I connect a custom domain to my Lovable project?
+Hostinger
 
-Yes, you can!
+GoDaddy
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Netlify
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+GitHub Pages
+
+👨‍💻 Author
+
+Sagar Kumar Mahto
+Developer of Netwave Digital Hub
