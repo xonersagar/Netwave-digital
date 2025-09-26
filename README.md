@@ -1,4 +1,4 @@
-Netwave Digital Hub
+# Netwave Digital Hub
 📌 Project Info
 
 A modern web application built with React, Vite, Tailwind CSS, and shadcn-ui.
